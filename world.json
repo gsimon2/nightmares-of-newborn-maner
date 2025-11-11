@@ -1,0 +1,18 @@
+{
+  "title": "Nightmares of Newborn Manor",
+  "id": "nightmares-of-newborn-manor",
+  "system": "pf2e",
+  "joinTheme": "default",
+  "nextSession": "2025-11-08T17:30:00.000Z",
+  "description": "<p>In <em data-start=\"268\" data-end=\"297\">Nightmares of Newborn Manor</em>, adventurers must brave a haunted estate where the echoes of infant cries twist into sinister omens. Once a proud home, the manor now groans under the weight of sleepless terrors, spectral toys, and cursed relics of parenthood. To survive, heroes must face the trials of endless diapers, bottle-born horrors, and lullabies that lull the soul toward doom. Only through courage—and perhaps a bit of humor—can the party escape the cradle of despair.</p>",
+  "coreVersion": "13.348",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systemVersion": "7.5.1",
+  "lastPlayed": "Tue Nov 11 2025 08:09:07 GMT-0500 (Eastern Standard Time)",
+  "playtime": 107420,
+  "background": "worlds/nightmares-of-newborn-manor/images/world-backdrop.png",
+  "flags": {}
+}
