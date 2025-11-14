@@ -1321,60 +1321,694 @@ At least until they get hungry again.
 
 =
 
-
 head(
-##Appendix ((+ Appendix))
+#Appendix ((+ Appendix))
+## NPCs ((+ NPCs))
 )
+
+
+item (
+# Sir Dadicus the Eternal
+![Sir Dadicus the Eternal](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/characters/sir-dadicus-the-eternal-portrait.png?raw=true)
+### Helpful Dad Ghost • Unique NPC
+
+; ghost,humanoid,mentor  
+**Perception** +10; **Languages** Common, Dad Jokes (universal)  
+**Skills** Guidance +∞, Puns +12, Lawncare Lore +14  
+**Str** — **Dex** — **Con** — **Int** +1 **Wis** +4 **Cha** +3  
+
+**AC** —  
+**HP** — (incorporeal)  
+**Speed** Depends on how fresh the grass is  
+-
+The faint scent of freshly mowed grass fills the air.
+
+You hear the *squek squek squek* of pristine, blindingly white New Balance sneakers approaching…
+
+Then — the sound.
+
+**The Dad Throat-Clear.**  
+A sound older than time. A sound of warnings, weather updates, and questions about whether you’ve checked the oil in your car.
+
+You turn to see him:
+
+**“Well hey there, Champs! Looks like you’re in a bit of a pickle, huh?  
+Don’t worry — ol’ Sir Dadicus is here to lend a ghostly hand… or at least a mildly helpful suggestion!  
+Think of me as your own personal Clippy — 10% useful, 90% just kinda here.”**
+
+Sir Dadicus the Eternal is the spectral embodiment of fatherly wisdom, dad-jokes, gentle judgment, and lawn-based pride.  
+He appears whenever the party is stuck, overwhelmed, or on the verge of irreparable idiocy — which, in this manor, is often.
+
+He is equal parts guide, cheerleader, and disappointment-in-training.
+
+---
+
+# :a: Dad Guidance *(Free Help)*  
+Sir Dadicus may offer a **hint, nudge, or pun-laden suggestion** at any time.  
+This never solves the puzzle outright — it only points the party “in the general dad-approved direction.”
+
+---
+
+# :a: Dad Heal *(Costs 1 Hero Point or a Real Shot)*  
+Sir Dadicus reaches out, placing a warm spectral hand upon a shoulder.
+
+A party member regains **3d8 Hit Points**, but must pay **one of the following prices**:  
+- **1 Hero Point**, or  
+- **Take a real-life shot** (your table’s choice of beverage)
+
+**Dadicus always reminds them**:  
+“Nothing in life is free… except refills on coffee.”
+
+---
+
+# :a: Dad's Bargain *(Greater Healing… at Future Cost)*  
+Sir Dadicus offers **additional healing beyond the first**, but warns:
+
+> “I’ll collect the tab later, Sport.”
+
+The **price** is narrative and mysterious.  
+He will call it in at a dramatically comedic moment.
+
+---
+
+# :r: Dad Resurrection *(When a PC dies)*  
+If a party member falls in combat, Sir Dadicus manifests in a burst of fresh-cut-grass aroma.
+
+He **revives** the character in the **Foyer of Fatherhood** at **1 HP**.
+
+The character owes Dadicus a **future favor**, the nature of which is unknown…  
+but almost certainly inconvenient.
+
+---
+
+# **Incorporeal Dadform** *(passive)*  
+Sir Dadicus cannot be attacked, damaged, grappled, banished, bribed, reasoned with, or asked to stop making puns.  
+He ignores walls, doors, and social boundaries.
+
+# **Dad Joke Aura** *(passive)*  
+Creatures within 10 feet must succeed at a **DC 15 Will Save** or become **flat-footed from secondhand embarrassment** for 1 round.
 
 
 /
 
-item (
-# Plague Baby
-Mechanically the same as an elite [Plague Zombie](https://2e.aonprd.com/Monsters.aspx?ID=3250&Redirected=1)
-![Plague Baby](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/plague-baby-1.png?raw=true)
-### Creature 2
 
-; neutral evil, undead, zombie, disease
-**Perception** +7; darkvision  
-**Languages** none  
-**Skills** Athletics +8  
-**Str** +3, **Dex** +0, **Con** +3, **Int** –5, **Wis** +0, **Cha** –2  
-**AC** 15; **Fort** +9, **Ref** +4, **Will** +5  
-**HP** 35 (negative healing); **Immunities** death effects, disease, paralyzed, poison, unconscious  
--
-The **Plague Baby** is an unholy fusion of infantile resilience and viral vengeance.  
-Its endless sneezing and giggling spread sickness as surely as its bite, and its diaper is a biohazard best left undisturbed.
 
 ---
 
-**Speed** 25 feet  
-**Melee** [one-action] **bite** +9 (agile, finesse), **Damage** 1d6+3 piercing plus **plague pustules**  
+## **Special Appearance — Before the Bathroom Encounter**
 
-**Melee** [one-action] **slam** +9 (agile), **Damage** 1d8+3 bludgeoning  
+As a character’s hand nears the doorknob, they pause.  
+A sound from inside. Sloshing. Gurgling. Something… alive.
+
+Then — a toilet flush.
+
+Sir Dadicus phases through the door, newspaper tucked under his arm.
+
+**“Sorry, Sport! I’d give that one a minute to breathe.  
+Turns out not everything in the afterlife agrees with me.”**
+
+He pats his ghostly beer belly.
+
+**“If you *are* going in there… take these.”**
+
+He tosses several glowing items that clatter at their feet before he dematerializes down the hall.
+
+### Items Given:
+- **Perfect Droplet**  
+- **Emetic Paste (Lesser) ×3**
 
 ---
 
-**Plague Pustules (disease)**  
-(incubation 1 day; **saving throw** Fortitude DC 17)  
-The afflicted creature becomes **sickened 1** and **slowed 1**.  
-Onset symptoms include runny nose, watery eyes, and a sudden urge to crawl under a blanket and cry.  
+## **Role in the Story**
+Sir Dadicus represents:
+- Support  
+- Encouragement  
+- Guidance  
+- And the ever-present dad in all of us
+
+He is the fatherly spark behind the spiritual manifestations that accompany the soon-to-be father.
+
+Though comical, he is deeply wise.  
+He wants them to succeed.  
+He wants them to grow.  
+He wants them to stop tracking dirt on the carpet.
 
 ---
 
-**Death Burst (disease, aura)**  
-When the Plague Baby is reduced to 0 HP, it explodes in a wet, contagious sneeze.  
-All creatures within 10 feet must succeed at a **Fortitude save (DC 17)** or become **Sickened 1** (Sickened 2 on a critical failure).  
-The area becomes lightly coated in glistening infant mucus.
+*Even in death, a dad’s job is never done.*
 
----
-
-**Cure:** Two consecutive successful Fortitude saves.  
-
----
-
-*Sometimes the most dangerous patient is the one still learning how to walk.*
 )
 
+note (GM Notes — Using Sir Dadicus
+Sir Dadicus serves as a **hint dispenser, healer, comic relief, and narrative glue**.
+
+He should appear:
+* when players are stuck,  
+* when pacing slows,  
+* when a comedic beat is needed,  
+* or when a character dies.
+
+He cannot fight.  
+He cannot meaningfully interfere.  
+But he can absolutely say things like:
+
+**“Measure twice, swing once!”**  
+**“Back in my day, we didn’t have demons — we had teenagers.”**  
+**“You call that a roll? Son, I’m not mad, just disappointed.”**
+)
+
+
+=
+
+
+
+
+
+head(
+##Creatures ((+ Creatures))
+)
+
+item (
+# Animated Blocks ((+ Animated Blocks))
+![Animated Blocks](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/animated-blocks.png?raw=true)
+### Creature 2 
+
+; common,construct,mindless  
+**Perception** +6; darkvision  
+**Languages** —  
+**Skills** Athletics +9  
+**Str** +3, **Dex** –3, **Con** +4, **Int** –5, **Wis** +0, **Cha** –5  
+
+**AC** 17 (13 when construct armor breaks); **Fort** +10, **Ref** +3, **Will** +4  
+**HP** 20 (Hardness 9); **Immunities** object immunities, mental, death effects, disease, paralyzed, poison, unconscious  
+**Speed** 20 feet  
+-
+Chiseled from enchanted wooden alphabet blocks and granted a jittery semblance of life, these playful constructs clatter across the nursery floor with relentless purpose.  
+Though small and colorful, their movements are unnervingly coordinated — forming shapes, stacking into towers, and collapsing into avalanches with surprising violence.  
+A favorite of tantrum spirits, these blocks obey only one command: *cause chaos.*
+
+---
+
+## **Construct Armor**  
+The Animated Blocks’ body is fortified by magical plating.  
+It has **Hardness 9**.  
+When reduced to **half HP or lower**, or struck by a **critical hit**, its plating breaks — reducing its AC to **13** and its Hardness to **0**.
+
+---
+
+## **Melee**  
+**:a: Glaive** +10 (deadly d8, forceful, magical, reach 10 feet)  
+→ **Damage** 1d8+4 slashing
+
+**:a: Gauntlet** +9 (agile, free-hand, magical)  
+→ **Damage** 1d6+4 bludgeoning
+
+---
+
+## **Jittering Collapse**  
+**:r:** **Trigger:** The Animated Blocks is reduced to 0 HP.  
+**Effect:** The construct collapses into a scattered explosion of wooden debris.  
+Creatures adjacent to it must succeed at a **DC 17 Reflex save** or take **1d4 bludgeoning damage** from flying fragments.
+
+---
+
+## **Stack Formation**  
+**:aa: (concentrate)**  
+The Animated Blocks rearranges its pieces, increasing its reach and leverage.  
+Until the start of its next turn, its **Glaive gains the shove trait**, and it gains a **+2 circumstance bonus to Athletics checks** to Shove.
+
+---
+
+*Though built to delight toddlers, they’ve since been repurposed into the tantrum’s frontline troops — an alphabet of agony clacking toward your shins.*
+)
+
+/
+
+
+
+
+=
+
+
+
+
+item (
+# Lego Swarm ((+ Lego Swarm))
+![Lego Swarm](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/lego-swarm.png?raw=true)
+### Creature 0
+
+; common,swarm,animal  
+**Perception** +6; low-light vision, scent (imprecise) 30 ft.  
+**Languages** —  
+**Skills** Acrobatics +7, Stealth +7, Survival +4  
+**Str** –1, **Dex** +3, **Con** +2, **Int** –4, **Wis** +1, **Cha** +0  
+
+**AC** 16; **Fort** +5, **Ref** +8, **Will** +4  
+**HP** 16; **Immunities** precision, swarm mind; **Resistances** piercing 3, slashing 3; **Weaknesses** area damage 3, splash damage 3  
+**Speed** 25 ft.; **climb** 15 ft.
+-
+A writhing carpet of tiny plastic bricks, clicking, clattering, and rearranging themselves with malicious intent.  
+Though no larger than toys, together they form a ravenous, grinding tide capable of shredding shins, tripping unwary heroes, and producing pain far exceeding their size.  
+They move with eerie determination — building, unbuilding, and rebuilding themselves with every skittering second.
+
+---
+
+### :a: Nibble  
+Each enemy in the Lego Swarm’s space takes **1d6 piercing damage** (DC 15 Reflex save, basic).
+
+---
+
+### :a: Scrabbling Swarm  
+The plastic bricks climb over all creatures in their space.  
+Each creature must attempt a **DC 17 Reflex save** or become **Clumsy 1** as long as it remains in the swarm’s space.
+
+---
+
+### Swarm Mind (passive)  
+The swarm has no single consciousness to disrupt.  
+It is immune to mental effects that require a single target.
+
+---
+
+*An unholy fusion of childhood imagination and barefoot agony, the Lego Swarm is proof that even the smallest toys can be the deadliest obstacles in the manor.*
+
+)
+
+/
+
+
+
+
+=
+
+
+
+
+
+item (
+# Teddy Bear ((+ Teddy Bear))
+![Teddy Bear](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/teddy-bear.png?raw=true)
+### Creature 3
+
+; common,animal  
+**Perception** +10; low-light vision, scent (imprecise 30 ft.)  
+**Languages** —  
+**Skills** Athletics +11, Survival +8  
+**Str** +4, **Dex** +1, **Con** +5, **Int** –4, **Wis** +1, **Cha** –2  
+
+**AC** 17; **Fort** +12, **Ref** +6, **Will** +8  
+**HP** 59  
+**Speed** 35 ft.
+
+---
+
+A once-beloved plush toy, now twisted by the manor’s restless magic.  
+This massive stuffed bear lumbers forward with uncanny weight, its seams stretching, button eye gleaming, and cotton innards shifting like living muscle.  
+Its paws—soft and harmless in life—swipe with terrifying force, and its jaw splits wider than stitching should allow.
+
+Beneath its cute exterior hides a guardian meant to comfort a child… or protect them with lethal ferocity.
+
+---
+
+### :a: **Jaws**  **+11** (unarmed)  
+**Damage** 2d8+4 piercing  
+
+### :a: **Claw** (agile)  **+11** (agile, unarmed)  
+**Damage** 1d10+4 slashing  
+**Effect** The teddy bear attempts to **Grab** the target.
+
+### :a: **Grab**  
+The teddy bear automatically Grabs a creature it hits with its Claw (as per the Grab ability).
+
+---
+
+### **Mauler** (passive)  
+The teddy bear gains a **+2 circumstance bonus to damage rolls** against creatures it has **Grabbed**.
+
+### :aa: **Rush**  
+The teddy bear **Strides**, gaining a **+10-foot circumstance bonus to Speed** during this movement, then makes a **Strike** at the end.
+
+---
+
+*In life, it was stitched to soothe. In this nightmare, it has only one purpose:  
+to smother anything that threatens the child.*  
+
+)
+
+
+
+
+
+=
+
+
+
+item (
+# Bubble Elemental ((+ Bubble Elemental))
+![Bubble Elemental](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/bubble-monster.png?raw=true)
+### Creature 4 (Weak)
+
+; elemental,water,amphibious  
+**Perception** +13; darkvision  
+**Languages** Thalassic  
+**Skills** Athletics +11, Stealth +12  
+**Str** +4, **Dex** +4, **Con** +2, **Int** +1, **Wis** +5, **Cha** +0  
+
+**AC** 20; **Fort** +10, **Ref** +12, **Will** +11  
+**HP** 43  
+**Immunities** bleed, paralyzed, poison, sleep  
+
+**Speed** 20 ft.; **climb** 20 ft.; **swim** 30 ft.
+
+---
+
+A churning pillar of bubbles and suds, infused with mischief, elemental magic, and just a hint of bath-time chaos.  
+Every motion sloshes, pops, and hisses with fizzy glee.  
+Within its foamy body swirls a single gleaming “eye,” peering out like a playful lifeguard daring you to splash back.
+
+The Bubble Elemental is more mischievous than malicious—  
+but make no mistake:  
+**it can drown a room in bubbles faster than a toddler with a bottle of soap.**
+
+---
+
+### :a: **Tentacle**  
+**+14** (finesse, reach 10 ft., sweep, unarmed)  
+→ **Damage** 2d8+4 bludgeoning  
+→ **Effect** Grab
+
+### :a: **Grab**  
+The elemental automatically Grabs a creature it hit with its tentacle.
+
+### :a: **Constrict**  
+**1d8+4 bludgeoning**, **DC 21 Fortitude** (basic)
+
+---
+
+### **Mist Vision** *(passive)*  
+The elemental ignores the **concealed** condition from mist, bubbles, fog, or foam.
+
+### **Mist Cloud** *(aura, primal, water)* — 15 feet  
+Creatures in the aura are **concealed**.  
+If dispersed, the cloud reforms at the start of the elemental’s turn.  
+The cloud is suppressed in water.
+
+---
+
+### :a: **Solidify Mist**  
+The elemental thickens its cloud into heavy suds.  
+- The aura becomes **difficult terrain** until the start of its next turn.  
+- One Medium or smaller creature within the cloud must attempt a **DC 20 Reflex save** or become **Immobilized** until it Escapes or leaves the cloud.
+
+---
+
+*Born from bathwater, tantrums, and too much bubble soap, this sudsy menace sloshes through the manor seeking new playmates to engulf in a squeaky, foamy embrace.*
+
+)
+
+
+
+=
+
+
+
+item (
+# Rubber Ducky ((+ Rubber Ducky))
+![Rubber Ducky](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/rubber-ducky.png?raw=true)
+### Creature 2 (Elite)
+
+; animal  
+**Perception** +6; low-light vision  
+**Languages** —  
+**Skills** Acrobatics +9, Athletics +10  
+**Str** +4, **Dex** +3, **Con** +3, **Int** –4, **Wis** +0, **Cha** +0  
+
+**AC** 17; **Fort** +11, **Ref** +9, **Will** +4  
+**HP** 45  
+**Speed** 50 ft.
+
+---
+
+Once an innocent bath-time companion, this Rubber Ducky has absorbed rage, scalding steam, and abandoned resentment over countless forgotten baths.  
+Now swollen with elemental spite, it quacks with thunderous force and charges with blistering speed—its once-cheerful face frozen in a deranged, glossy smile.
+
+It hops, skids, squeaks, and slashes with alarming enthusiasm, driven by the singular desire to defend its soapy domain.
+
+---
+
+### :a: **Beak**  
+**+10** (reach 10 ft., unarmed)  
+→ **Damage** 1d8+4 piercing  
+→ **Effect — Tearing Clutch:** On a hit, the target takes **1 persistent bleed damage**.  
+On a critical hit, this increases to **1d4 persistent bleed**.
+
+### :a: **Talon** (agile)  
+**+10** (agile, unarmed)  
+→ **Damage** 1d6+4 piercing  
+→ **Effect — Knockdown:** The ducky attempts to **Knock the target Prone**.
+
+---
+
+### :aa: **Sprint** *(once per minute)*  
+The Rubber Ducky **Strides three times in a straight line**.  
+It must end its movement no further away from the starting direction than a straight line allows.  
+A squeaky warbling howl accompanies its charge.
+
+---
+
+### **Tearing Clutch** *(passive)*  
+The Rubber Ducky’s reinforced beak grips and tears flesh.  
+On a successful **Beak** Strike, the target takes **1 persistent bleed** (or **1d4 persistent bleed** on a critical hit).
+
+---
+
+*Steam hisses. Bubbles churn. The ducky turns its head with a slow, rubbery squeak.  
+You suddenly understand why Sir Dadicus said, “Don’t leave bath toys behind… they remember.”*
+
+)
+
+
+
+
+
+=
+
+
+
+item (
+# Plague Baby ((+ Plague Baby))
+![Plague Baby](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/plague-baby-1.png?raw=true)
+### Creature 1 (Elite)
+
+; undead,mindless,zombie,unholy  
+**Perception** +3; darkvision  
+**Languages** —  
+**Skills** Athletics +9  
+**Str** +4, **Dex** –2, **Con** +3, **Int** –5, **Wis** +0, **Cha** –2  
+
+**AC** 13; **Fort** +6, **Ref** +3, **Will** +4  
+**HP** 60 (negative healing)  
+**Speed** 25 ft.  
+**Immunities** death effects, disease, paralyzed, poison, unconscious, bleed  
+**Weaknesses** vitality 10, slashing 10
+
+---
+
+A tiny, sickly undead infant whose runny nose and hacking cough would be adorable… if they weren’t also violently contagious.  
+These staggering little horrors leave trails of sticky mucus, sneeze unholy phlegm, and reach out with pudgy, feverish arms to spread their delightful diseases.
+
+Though mindless, something in their cloudy green eyes suggests a single thought repeating endlessly:  
+**“I don’t feel good…”**
+
+---
+
+### :a: **Fist**  
+**+9** (unarmed)  
+→ **Damage** 1d8+4 bludgeoning  
+→ **Effect** Grab; **Zombie Rot**
+
+### :a: **Jaws**  
+**+9** (unarmed; only usable against a Grabbed or Restrained creature)**  
+→ **Damage** 1d12+4 piercing  
+→ **Effect** **Zombie Rot**
+
+---
+
+### **Zombie Rot** *(disease, unholy, void)*  
+**Saving Throw:** DC 18 Fortitude  
+**Stage 1:** Carrier with no effects (1 day)  
+**Stage 2:** 1d6 void damage (1 day)  
+**Stage 3:** 1d6 void damage (1 day)  
+**Stage 4:** 1d6 void damage (1 day)  
+**Stage 5:** Dead, rising immediately as a plague zombie
+
+A creature cannot heal damage taken from Zombie Rot until the disease is cured.
+
+---
+
+### **Slowed 1** *(passive)*  
+The Plague Baby is permanently **Slowed 1** and cannot use reactions.
+
+### **Void Healing** *(passive)*  
+The Plague Baby gains **negative healing** and does not benefit from positive healing.
+
+---
+
+*Few things are more dangerous than a sick toddler who refuses to nap — especially one that has already died once.*
+
+)
+
+
+
+
+=
+
+
+
+
+
+
+
+
+item (
+# Food Goblin
+![Food Goblin](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/food-goblin.png?raw=true)
+### Creature 1
+
+; goblin,humanoid  
+**Perception** +7; darkvision  
+**Languages** Common, Goblin  
+**Skills** Stealth +6, Survival +7, Nature +7, Society +4, Cooking Lore +10  
+**Str** +1, **Dex** +1, **Con** +3, **Int** +2, **Wis** +2, **Cha** +0  
+
+**AC** 16  
+**Fort** +10, **Ref** +6, **Will** +5  
+**HP** 24  
+**Immunities** sickened  
+**Speed** 25 ft.
+-
+Greasy, frantic, and covered in questionable sauces, these tiny goblins wage culinary war with wild enthusiasm.  
+Each hoards a personal stash of baby food flavors, pickles, and “special recipes,” all of which are equally likely to be used as weapons or snacks.
+
+They are loud, proud, and deeply food-motivated — and they will absolutely throw mashed peas at you.
+
+---
+
+### :a: Cleaver *(dogslicer)*  
+**+7** (agile, finesse, backstabber)  
+→ **Damage** 1d4+1 slashing
+
+### :a: Jaws  
+**+7** (finesse, unarmed)  
+→ **Damage** 1d6+1 piercing
+
+---
+
+### :a: Throw Food  
+**+7** (range 20 ft.)  
+→ **Damage** 1d4 bludgeoning  
+→ *Usually mashed peas or carrots. Always unpleasant.*
+
+---
+
+### :a: Projectile Vomit *(triggered when fed the wrong baby food)*  
+**+8** (range 30 ft., splash)  
+→ **Damage** 1d6+1 bludgeoning (splash)  
+→ **Effect** Target becomes **sickened 1**
+
+---
+
+### :aa: Eat a Pickle  
+The goblin devours a whole pickle (or feeds one to an adjacent ally).  
+- Gains **4 temporary HP**  
+- Ignores **emotion** and **fatigue** penalties for **1 round**
+
+The crunch echoes with heroic intensity.
+
+---
+
+#### **Good Enough to Eat** *(passive)*  
+The goblin can make “food” out of nearly anything.  
+It automatically succeeds at Subsist checks as long as garbage is available.
+
+**Non-goblins** eating this “food” must attempt a **DC 14 Fortitude save**:  
+- **Failure:** Upset stomach for 1 day; eating anything else requires a **DC 4 flat check** or the action is disrupted.
+
+---
+
+#### **Kitchen Specialist** *(passive)*  
+For cooking-related checks, the Food Goblin is treated as a **3rd-level creature**.
+
+---
+
+#### **Iron Gut** *(passive)*  
+The goblin gains a **+2 circumstance bonus** to saving throws against **ingested poisons**.
+
+---
+
+*Proud chefs of chaos, these goblins are responsible for 90% of the stains in the Dining Room — and 100% of the airborne mashed carrots.*
+
+)
+
+
+
+=
+
+
+
+item (
+# Goblin Servant
+![Goblin Servant](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/goblin-servant.png?raw=true)
+### Creature 1
+
+; goblin,humanoid  
+**Perception** +4; darkvision  
+**Languages** Common, Goblin  
+**Skills** Acrobatics +7, Stealth +7, Fire Lore +7  
+**Str** +0, **Dex** +4, **Con** +2, **Int** +0, **Wis** –1, **Cha** +3  
+
+**AC** 17  
+**Fort** +7, **Ref** +9, **Will** +4  
+**HP** 25  
+**Speed** 25 ft.
+-
+Frantic, soot-stained, and perpetually overwhelmed, these tiny attendants scurry around the Lord Baby’s throne trying desperately (and unsuccessfully) to appease their furious master.  
+They wield cantrips like toys and toys like weapons, causing far more chaos than help.
+
+---
+
+### :a: Improvised Torch  
+**+7** (agile, improvised, unarmed)  
+→ **Damage** 1d4 bludgeoning plus **1 fire** if the torch is lit
+
+### **Arcane Spontaneous Spellcasting**  
+**DC 16**, **attack +6**  
+**1st Rank (3 slots):** *breathe fire*, *grease*, *tangle vine*, *ignition*, *telekinetic hand*  
+**Cantrips (1st):** *light*
+
+---
+
+### :r: Goblin Scuttle  
+**Trigger:** An ally ends a move adjacent to the goblin servant.  
+**Effect:** The goblin **Steps 5 feet**, squeaking in panic.
+
+---
+
+### :aa: Disrupt  
+The goblin rushes forward and kicks aside an offering placed on a sigil.  
+A relic placed for appeasement is **knocked out of position**, ending its effect until replaced.
+
+---
+
+### :aaa: Appease the Lord Baby  
+The goblin tries to hype up the tantrum instead of helping.  
+The Lord Baby’s ambient tantrum effect **increases by 1 level**.
+
+---
+
+*These goblins aren’t evil — just exhausted caretakers in way over their heads.  
+Unfortunately, their “help” usually makes everything worse.*
+
+)
 
 
