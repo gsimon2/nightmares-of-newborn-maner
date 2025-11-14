@@ -1,0 +1,1380 @@
+pagenumbers
+
+title (
+Nightmares of Newbord Manor
+)
+head (
+# Nightmares of Newbord Manor ((Nightmares of Newbord Manor))
+
+In Nightmares of Newborn Manor, adventurers must brave a haunted estate where the echoes of infant cries twist into sinister omens. Once a proud home, the manor now groans under the weight of sleepless terrors, spectral toys, and cursed relics of parenthood. To survive, heroes must face the trials of endless diapers, bottle-born horrors, and lullabies that lull the soul toward doom. Only through courage—and perhaps a bit of humor—can the party escape the cradle of despair.
+-
+)
+
+![module_cover](https://raw.githubusercontent.com/gsimon2/nightmares-of-newborn-maner/b999ed03f8767ac5b10ee17b6f3d0c90362985f1/images/world-backdrop.png)
+
+
+/
+/
+
+head(
+## Awakening in the Manor ((+Awakening in the Manor))
+)
+
+The adventure begins with the players suddenly awakening in the foyer of the manor, disoriented and without memory of how they arrived. The air feels heavy — thick with the echoes of lullabies long forgotten and the faint scent of milk and powder.
+
+Only one of them — the soon-to-be father — is truly here. The others are spiritual manifestations of his inner self: courage, patience, wisdom, humor, and love, given form to guide him through the trials ahead. They do not know this truth, and neither does he.
+
+To the players, it should feel like a shared dream — vivid, uncanny, and oddly personal. The house itself reacts to the father’s emotions, twisting and changing as he faces each challenge of impending parenthood.
+
+As they stir awake, describe the soft cry of a baby echoing through the manor — distant, pleading, familiar. The sound should pull them to their feet and toward the doors of the foyer, setting their journey in motion.
+
+This is not an arrival. It is an awakening — and the beginning of a lesson disguised as a nightmare.
+
+
+![Battle Map](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/scenes/Newborn%20Manor%20-%20final.webp?raw=true)
+
+
+
+=
+
+
+
+
+head(
+## The Foyer of Fatherhood ((+ The Foyer of Fatherhood))
+)
+![foyer_of_fatherhood](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/foyer-of-fatherhood.png?raw=true)
+
+/
+
+You awake to the sound of a cry — a single, sharp note that cuts through the veil of dreams and settles somewhere deep in your chest.  
+When your eyes open, you find yourself standing in what was once a grand foyer. Long ago, it might have been a place of elegance and pride — the kind of room meant to impress guests.  
+Now, it looks like it’s barely holding itself together.
+
+Two massive, ornate doors stand before you, flanked by faded columns and crumbling trim. The walls, once polished and warm, are now caked with mysterious stains — the kind that no amount of scrubbing ever seems to remove.  
+Smudged handprints, streaks of crayon, and glossy trails of dried saliva mark the surface like some chaotic mural painted by unseen little hands.
+
+Between the grand doors looms a statue, arms outstretched as if in tribute to some unseen ruler.  
+Its stone fingers clutch an offering of objects — a bottle, a rattle, a pacifier. The meaning is unmistakable: a desperate plea for appeasement.
+
+From somewhere deeper within the manor, the cries return — louder now, sharper, echoing through the halls with unnatural resonance.  
+These are no ordinary wails. There is something imperious about them, something that demands obedience.  
+Each note carries the weight of a command, though what it demands of you, you cannot yet say.
+
+Around you, several smaller doors line the room — each one a promise of mystery and danger.
+
+
+ * To the **north**, a few toys lie scattered before a narrow doorway: a teddy bear, wooden blocks, a duck on a string — all perfectly still, yet somehow *watching*.  
+
+|
+
+ * To the **south**, books lie strewn across the floor, their pages torn and crumpled.  
+
+A faint draft flips one open, revealing an illustration of a sleeping child — the face violently scribbled out in red crayon.
+
+
+info (
+## Player Prompt
+This is the moment your party first awakens.  
+Encourage each adventurer to describe how they react to the cry and the setting around them.  
+Use this time to establish tone, introduce character quirks, and build tension before moving into exploration.
+
+Perception check rolloff - Highest roll finds an "Elixir of Sanity" - A beer from the cooler
+)
+
+note (
+## The Scene
+This area sets the tone for the entire adventure — equal parts wonder and unease.  
+Use environmental storytelling: distant creaks, flickering candlelight, and the echo of unseen giggles.  
+Let the players feel the presence of the manor before it ever acts against them.
+)
+
+note (
+## Sir Dadicus the Eternal
+
+The lingering spirit of fatherly wisdom — and dad jokes — made manifest. Once a mortal hero of domestic responsibility, he met his end in a tragic battle against an unopened jar and its stubborn lid. His retirement plan was to finally clean out the garage, but haunting this manor seems to suit him just fine.
+
+Sir Dadicus should be introduced while the players are in the Foyer of Fatherhood. Hint at what mechanics he has to offer.  More can be learned about Sir Dadicus in the appendix.
+)
+
+
+
+
+=
+
+
+
+
+head(
+## The Hallway of Heavy Eyes ((+ The Hallway of Heavy Eyes))
+)
+
+/
+
+
+/
+
+The hallway stretches ahead in uneasy silence, its tiled floor marked by faint shuffling tracks — the kind left by someone barely awake, dragging their feet through exhaustion rather than intent.  
+Three paintings hang along the walls, crooked and dim beneath the flickering light.  
+
+It feels like a place someone once stumbled through countless times in the dead of night — searching for the source of a cry, too tired to remember why.  
+
+A cool draft slides down the corridor, carrying with it the faint scent of baby powder and something else — faintly sour, faintly sweet.  
+The hush of the hallway presses in around you, and every creak of the floorboards feels like a heartbeat waiting for its next breath.
+
+|
+
+rules (
+## Investigation
+Players may examine each painting freely.  
+
+**DC 18** — Identify the wondrous item depicted.  
+
+**DC 23** — Learn about its location within the manor.  
+
+
+Encourage roleplay with different **Recall Knowledge** skills such as **Arcana**, **Religion**, or **Occultism**, depending on the tone of their interpretation.
+)
+
+note (
+## GM Notes
+Each painting hints at a **wondrous item** hidden elsewhere in the manor.  
+If the players already possess one of the depicted items, the painting of that item subtly glows when they enter the hallway.
+)
+
+/
+
+### Painting 1 — *“The Nourishing Light”*
+A rosy-cheeked baby smiles up from a field of clouds, cradling a bottle full of milk.  
+Light dances across the painting, giving the illusion that the milk truly shimmers with life.  
+*(Depicts the **Bottle of Endless Milk** — located in the Nursery.)*
+
+---
+
+### Painting 2 — *“The Blanket of Peace”*
+A sleeping infant is wrapped snugly in a soft pastel blanket, surrounded by stars that seem to glow with gentle warmth.  
+The baby’s tiny hand peeks out, grasping one glowing corner as a peaceful smile graces its face.  
+*(Depicts the **Blanket of Soothing Snuggles** — located in the Laundry Room.)*
+
+---
+
+### Painting 3 — *“The Joy of the Bath”*
+A laughing baby splashes happily in a porcelain tub filled with frothy bubbles, clutching a bright yellow rubber duck mid-squeak.  
+Sunlight streams through an unseen window, casting the whole scene in a cozy golden glow.  
+*(Depicts the **Rubber Ducky of Bubbleguard** — located in the Bathroom.)*
+
+/
+
+
+
+
+
+=
+
+
+
+
+head(
+## The Toy Room ((+ The Toy Room))
+### “Where Playtime Never Ends”
+)
+
+/
+
+![toy_room](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/toy-room.png?raw=true)
+
+/
+
+You open the door, and chaos greets you.
+
+The Toy Room looks as though a hurricane, an explosion, and a sugar-fueled toddler all hit at once — and maybe they did.  
+The floor is a battlefield of scattered toys, overturned furniture, shredded books, and debris. Blocks, dolls, and wooden trains lie everywhere, forming treacherous piles that crunch and clatter underfoot.
+
+And yet… this destruction doesn’t feel random.
+
+Splintered wood and scorch marks line the walls — in several places, the damage looks eerily like actual explosions.  
+A few stuffed animals hang limply from shelves or sit slumped against the wall, their fur singed and seams stretched.  
+It looks like playtime ended… badly.
+
+A massive teddy bear slumps in the corner, one button eye missing, the other gleaming faintly in the dim light.  
+A wooden rocking horse stands upright but precarious, its frame creaking with each faint draft.  
+Scattered across the floor, a mess of building blocks occasionally arrange themselves into short, desperate messages — words like **“Danger,” “Get Out,” “Run,”** and **“Help Me.”**  
+But the moment you blink, they collapse back into meaningless piles.
+
+An ominous weight presses down on the room, a feeling that you are not welcome here.  
+The toys aren’t waiting for you — they’re waiting for someone else.  
+And just as you start to consider leaving, it happens.  
+The rocking horse shudders. The teddy bear’s head tilts.  
+Somewhere deep within the pile of toys, something clicks to life.
+
+*Playtime isn’t over. It’s only just begun.*
+
+|
+
+rules (
+## Combat Encounter
+The scattered toys and debris make the entire floor **difficult terrain**.  
+Players may move at full speed, but must succeed at an **Athletics or Acrobatics check (DC 16)** or take **1d4 bludgeoning damage** from stepping on sharp or unstable objects.
+)
+
+note (
+## Monsters
+Details in the appendix
+* Animated Blocks
+* Lego Swarm
+* Teddy Bear  
+)
+
+info (
+## GM Notes
+It appears that nothing here could hold the Lord Baby’s attention.  
+No wonder all the toys are upset.  
+Defeating or calming the toys may reveal more about the manor’s curse and the child’s restless spirit.
+)
+
+
+item (
+# Toy Chest Loot
+
+**Perception DC 18** to notice a cracked toy chest hidden beneath the rubble.
+Inside are a few useful treasures, perhaps meant for a long-forgotten playtime hero.
+
+| Loot | Description |
+| :--- | :--- |
+| **Weapon Potency Rune (+1)** | A faint magical hum radiates from a toy sword’s blade. When carefully removed, the rune glows briefly before dimming. |
+| **Minor Healing Potion ×2** | Two small bottles shaped like baby bottles, each filled with sweet, strawberry-scented liquid. Restores **1d8 HP** when consumed. |
+| **Belt of Good Health** | When you put on this belt, its silver buckle begins to glow, which slowly spreads into the heart-shaped jewel in the center. You increase your maximum Hit Points and current Hit Points by 4. If you remove the belt, you immediately decrease both your maximum and current HP by 4. |
+)
+
+
+
+=
+
+
+
+
+head(
+## The Nursery ((+ The Nursery))
+### “The Stinker in the Shadows”
+)
+
+/
+
+![nursery_scene](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/nursery.png?raw=true)
+
+/
+
+The soft flicker of a failing light greets you as you step into the nursery.  
+Once a small cozy room, it now resembles a makeshift jungle gym — an overturned crib, a landing pad teddy bear, half-empty bottles, and the faint lull of a broken mobile that seems to have been used as monkey bars.
+
+The overhead light flickers again — on… off… on… off…
+
+At first, the room appears empty.  
+But then, the smell hits you.
+
+Something foul.  
+Something sinister.  
+Something that awakens the deepest primal horror of all — **the smell of a dirty diaper.**
+
+The light cuts out completely.  
+For a moment, you stand in perfect darkness, surrounded only by the faint rustle of movement and the wet pitter-patter of tiny feet on the floorboards.  
+
+Then *click* — the light flickers back on.
+
+Standing by the wall, one hand still on the switch, is a small gremlin wearing nothing but a swollen, sagging diaper.  
+It turns its head slowly, catching you with a wide-eyed, mischievous stare — somewhere between innocence and chaos.  
+The smell intensifies. The diaper looks… ready to give out.
+
+For a brief, silent moment, you all understand the unspoken truth:  
+**That diaper. Must. Be. Changed.**
+
+The gremlin blinks. The light flickers once more.  
+And then it’s gone — darting across the room at impossible speed, weaving between overturned toys and toppled furniture while still, somehow, flicking the lights off and on as it goes.
+
+*The chase has begun.*
+
+rules (
+## The Chase
+The players must catch the **Diaper Gremlin** using creative problem-solving — Athletics checks, unarmed strikes, or anything suitably chaotic.  
+Each player must succeed on **3 total checks (DC 18)** to successfully corner the creature.
+
+Once caught, they must change its diaper — represented by a **real-life blinded diaper-changing race** at the table.  
+Failure results in disaster (and possibly humiliation), but success earns the gremlin’s gratitude.
+)
+
+
+note (
+## GM Notes
+Upon completion, the gremlin stands proudly, pats its freshly powdered bottom, and waddles off into the Toy Room, humming contentedly to itself.  
+This scene should be played for laughs — equal parts chaos and triumph.
+)
+
+
+|
+
+
+**Perception DC 17** to notice a faint glow coming from beneath the overturned crib.  
+Amidst the clutter lies a magical baby bottle, still warm to the touch.
+
+| Loot | Description |
+| :--- | :--- |
+| **Bottle of Endless Milk** | This enchanted bottle never runs dry and can calm even the most furious of cries. Feeding it to the Lord Baby later may help quell his rage. |
+| **Aeon Stone (Dusty Rose Prism)** | This aeon stone allows you to cast the 1st-rank Shield cantrip as an arcane innate spell, surrounding yourself in pink energy. The resonant power increases the damage prevented by your aeon stone's shield spell from 5 to 10. |
+
+
+item (
+# Bottle of Endless Milk
+![Bottle of Endless Milk](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/items/bottle-of-endless-milk.png?raw=true)
+### Wondrous Item
+
+; uncommon,magical,wondrous
+**Usage** Held in one hand  
+**Bulk** L  
+-
+This immaculate glass bottle glows with a gentle golden light, forever brimming with warm, soothing milk.  
+No matter how much is poured, it never empties.  
+The milk within is perfectly comforting—sweet, nourishing, and faintly divine.
+
+Offering it to the **Lord Baby** can soothe its hunger… if only for a while.  
+Those who drink from it feel a brief wave of calm, gaining a sense of warmth and safety that defies the manor’s chill.
+)
+
+
+
+
+=
+
+
+
+
+
+head(
+## The Master Bedroom ((+ The Master Bedroom))
+### “Showtime before bedtime — rest is earned, not given.”
+)
+
+/
+
+![master_bedroom](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/master-bedroom.png?raw=true)
+
+/
+
+You step into the Master Bedroom, and for a moment, it feels… wrong.  
+Not haunted — just too clean. The bed is neatly made, the pillows fluffed, and the floorboards shine with an almost unnatural polish.  
+There’s no dust, no clutter, no warmth — just the eerie sense of a room that’s barely lived in.
+
+If it’s used at all, it can’t be for more than a few hours each night — a brief surrender to exhaustion before duty calls again.
+
+Then you notice them.
+
+Two small gremlins sit cross-legged on the bedspread, staring blankly at the wall.  
+Their eyes are half-lidded with boredom, claws drumming rhythmically against the sheets.  
+Toys lie abandoned nearby — ignored, uninteresting.  
+One gremlin lets out a long, dramatic sigh before turning to you with a look of desperate expectation.
+
+They don’t want toys.  
+They want **you** to entertain them.
+
+rules (
+## Performance Challenge
+The players must entertain the gremlins with any creative performance — dancing, singing, storytelling, shadow puppets, or any other inspired act.  
+
+Use **Performance** or another **Charisma-based skill check (DC 18)**.  
+Encourage the players to act it out in real life — anything genuinely funny or ridiculous earns a **+2 circumstance bonus**.
+
+Each successful check wins the gremlins’ favor.  
+Three total successes calm them and put them to sleep.  
+
+Failure results in a brief **temper tantrum**: a wild flurry of elbows, knees, and headbutts dealing **1d4 bludgeoning damage** to a random performer.
+)
+
+
+|
+
+note (
+## GM Notes
+The gremlins respond to the group’s energy — laughter, bad singing, or slapstick earns points.  
+Let this scene breathe; it’s a lighthearted interlude amid the manor’s gloom.  
+Once the players have sufficiently entertained them (3 successes), the gremlins yawn, curl up together, and fall asleep beneath the covers.
+
+*“Doesn’t look like anyone else is getting any sleep in this bed… someone might as well use it.”*
+)
+
+
+**Perception DC 19** to notice the faint shimmer of light reflecting from beneath the bedframe.  
+Hidden under the dust ruffle are two forgotten curiosities, gleaming faintly in the lamplight.
+
+| Loot | Description |
+| :--- | :--- |
+| **Wig of Holding** | Fashioned from planar fibers, this stylish wig conceals a small extradimensional space within its curls. It can hold up to **4 light-Bulk items** without increasing its own Bulk. Interacting with it to stow or retrieve an item requires only **one Interact action**. |
+| **Mirror Robe** | Thousands of tiny mirrored shards are stitched into a long silk duster, scattering reflections across the room. While worn, you gain a subtle air of confidence — and perhaps vanity. Under bright light, the robe casts playful gleams like glittering stars. |
+
+
+
+
+=
+
+
+
+
+
+head(
+## The Hallway of Baby Monitors ((+ The Hallway of Baby Monitors))
+)
+
+/
+
+The corridor hums with a wall of crackling static.  
+Dozens of baby monitors sit on shelves and tables, their tiny red lights blinking in uneven rhythm.  
+The noise isn’t just static — it’s *whispering*.
+
+“You’ll never sleep again…”  
+“Nap time is a lie…”  
+“Rest is for the weak…”
+
+Each monitor carries a different voice — some giggling, some sobbing, others softly cooing lullabies that twist into desperate pleas.  
+As you walk, they seem to track your movement, lights flickering faster when you draw near.  
+A few of them hiss louder, as if offended by your presence.  
+You can’t tell whether the monitors are connected to something… or if they’re talking to each other.
+
+The deeper you go, the more the static merges into something rhythmic — almost like breathing.  
+It’s unclear whether it’s the manor, the devices, or *you* that’s exhaling now.
+
+|
+
+rules (
+## Lingering Fear
+Anyone who lingers too long among the monitors must succeed at a **Will save (DC 17)** or become **Frightened 1**, haunted by the sinking realization that the whispers might be right.  
+Those who fail can almost hear their own heartbeat blending with the static, echoing in sync with the monitors’ lights.
+)
+
+note (
+## GM Notes
+This hallway works best as an atmospheric bridge between major encounters — a brief psychological hit before the next physical challenge.  
+
+)
+
+
+
+
+=
+
+
+
+
+
+head(
+## The Bathroom ((+ The Bathroom))
+### “The Bubble Trouble”
+)
+
+/
+
+![bathroom_scene](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/bathroom.png?raw=true)
+
+/
+
+The Bathroom once gleamed with motherly warmth and scented candles, but now it reeks of mildew and spilled bubble bath.  
+The walls are lined with cracked tiles, their grout blackened by moisture.  
+A large claw-foot tub dominates the room — its porcelain surface chipped and filled halfway with murky, bubbling water.  
+Steam clings to the mirrors, which occasionally clear on their own to reveal fleeting, grinning baby faces that vanish when looked at directly.
+
+Diapers hang like grimy flags from towel racks, and half-used bottles of bubble bath lie scattered about.  
+The sink occasionally burps out foam, and every few seconds a rubber ducky can be heard squeaking somewhere nearby.
+
+rules (
+## The Encounter
+When the party enters, the **door slams shut and locks magically**.  
+Bubbles begin to fill the room, rising from ankle depth to chest height until visibility is nearly gone.  
+Moments later, a cheerful hum echoes through the room — twisted into a discordant nursery rhyme.  
+Then the foam in the tub trembles… and something **quacks**.
+
+*Enemies:*  
+
+* Rubber Ducky  
+* Bubble Elemental
+
+*Environmental Hazard:*  
+The lingering **stench of Sir Dadicus’ visit** forces a **Fortitude save (DC 18)** or suffer the **Sickened** condition.
+
+*Victory Condition:*  
+Defeating the **Rubber Ducky** dispels the flooding magic, leaving behind a **glowing golden duck** floating serenely in the tub.  
+The remaining water is absorbed into the duck’s surface, leaving behind a faint shimmer and the scent of soap.
+)
+
+
+## Bubble Elemental
+![Bubble Elemental](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/bubble-monster.png?raw=true)
+
+
+|
+
+note (
+## GM Notes
+Play this scene with mounting tension that gives way to slapstick chaos.  
+As the bubbles rise, make the players describe their actions — fighting blind, slipping on soap, shouting through foam.  
+Let sound and smell drive the horror as much as sight.  
+When the final blow lands, describe the sudden stillness — the bathwater spiraling down the drain, the rubber duck glowing like a trophy of absurd heroism.
+)
+
+**Perception DC 18** to spot a faint golden glow shimmering beneath the bubbling water.  
+Fishing it out reveals the true prize — a restored relic of bath-time divinity.
+
+| Loot | Description |
+| :--- | :--- |
+| **Rubber Ducky of Bubble Guard** |  |
+
+item (
+# Rubber Ducky of Bubble Guard
+![Rubber Ducky of Bubble Guard](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/items/rubber-duckey-of-bubbleguard.png?raw=true)
+### Wondrous Item
+
+; uncommon,magical,wondrous  
+**Usage** Held in one hand  
+**Bulk** L  
+-
+Once a vengeful bath toy abandoned in the suds of neglect, this cheerful duck has since been cleansed of its rage and blessed with the power of endless water.  
+When squeezed, it releases a torrent of pure, enchanted bathwater capable of **dousing flames** and **cooling molten heat**.  
+Its bubbles shimmer protectively in the air, leaving behind the faint scent of soap and second chances.
+)
+
+/
+
+note (
+## Side Encounter — Sir Dadicus’ Bathroom Break
+Just before entering the bathroom, the players hear faint noises from beyond the door.  
+A soft *flush*, followed by a muffled *“Sorry, Sport!”*  
+
+Sir Dadicus the Eternal materializes through the door, newspaper tucked under one arm and an embarrassed grin across his spectral face.  
+"Would give that one a minute to breathe if I were you. Turns out not everything in the afterlife agrees with me," he says, patting his glowing beer belly.  
+He chuckles, then tosses a few items toward the party before fading down the hallway.
+)
+
+
+| Loot | Description |
+| :--- | :--- |
+| **Perfect Droplet** | A perfectly spherical bead of water that never breaks. Activating it imbues any spell cast with its essence, granting a **Spell DC 17**. |
+| **Emetic Paste (Lesser) ×3** | Sickened creatures may apply this paste to their skin or throat to immediately attempt a **Fortitude save** to reduce the condition. Grants a **+2 item bonus** to that save and all future saves against the Sickened condition for **1 hour**. |
+
+
+
+
+=
+
+
+
+
+=
+
+head(
+## The Laundry Room ((+ The Laundry Room))
+### “The Endless Cycle”
+)
+
+/
+
+![laundry_room](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/laundry-room.png?raw=true)
+
+/
+
+The smell of soap hits you the moment the door creaks open.  
+The Laundry Room looks like a war between order and chaos — and chaos is clearly winning.
+
+Racks line every wall, sagging under the weight of countless baby clothes.  
+Tiny shirts, onesies, bibs, and socks hang in neat, endless rows, sorted by size and color with obsessive precision.  
+Each piece is spotless and perfectly folded, as if some unseen caretaker had worked tirelessly to impose control over the multitude of clothing.  
+Why a baby needs so many clothes is beyond comprehension — they’re bound to grow out of them before wearing them all.
+
+But beyond the thin veil of order lies pure mayhem.  
+The floor is buried in heaps of filthy fabric — stained burp cloths, drool-soaked aprons, spoiled bedding, and blankies dragged through mud and who-knows-what.  
+A sink, a wooden wash tub, and an old-fashioned washboard sit abandoned near the far wall, their surfaces crusted with dried suds.
+
+There’s a sense that whoever tended this room fought a losing battle — scrubbing, folding, sorting, washing — until the futility of it broke them.  
+Now the instruments of their work stand silent, as though the very act of doing laundry here drives the mind to ruin.
+
+Despite the chaos, the air hums faintly, as if the room itself still expects the work to continue.  
+Somewhere under the piles, you swear you hear the soft swish of fabric and the whisper of a lullaby — *“wash, rinse, repeat…”* — like a curse that refuses to end.
+
+rules (
+## Skill Challenge — “Wash, Rinse, Repeat”
+Players attempt to calm the room’s restless magic by tidying the chaos with **Society**, **Crafting**, or **Performance** (or another justified skill) to “fold,” “organize,” or “soothe the magic.”  
+
+**DC 17** checks. Track cumulative progress like a slider:  
+- **Goal:** **5 total successes** before **5 total failures**.  
+- **Critical Success:** The player’s neatly folded stack **stays folded** and **one nearby pile folds itself** for free (count an additional success).  
+- **Failure:** An enchanted gust knocks laundry back to the floor, **adding 1 more item to fold** (count an additional failure).  
+- **Critical Failure:** The chaos rattles the nerves — the performer takes a **–2 circumstance penalty on their next check**.
+
+**Success Outcome:** The laundry piles go still, the hum softens, and a single, warm bundle remains: the **Blanket of Soothing Snuggles**.  
+**Failure Outcome:** The room resets in a flurry of flying onesies; everyone is dusted in baby detergent and becomes **Fatigued** until they can clean up and rest.
+)
+
+|
+
+note (
+## GM Notes
+Let players pitch creative approaches: lullabies, color-coding systems, choreographed folding, even pep talks to the piles.  
+Reward genuinely funny or well-described methods with circumstance bonuses.  
+Use sound to sell the scene — the cadence of the lullaby grows calmer with successes and frantic with failures.
+)
+
+**Perception DC 17** to spot a perfectly folded bundle resting atop the washer and a faint metallic gleam tucked inside a shirt pocket.
+
+| Loot | Description |
+| :--- | :--- |
+| **Blanket of Soothing Snuggles** |
+| **Presentable Rune** | A garment with this rune is **always clean**, as if freshly affected by *Prestidigitation*. While wearing the presentable outfit, you gain a **+1 item bonus** to **Make an Impression** with those who’d be swayed by impeccable attire. |
+
+item (
+# Blanket of Soothing Snuggles
+![Blanket of Soothing Snuggles](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/items/blanket-of-soothing-snuggles.png?raw=true)
+### Wondrous Item
+
+; uncommon,magical,wondrous  
+**Usage** Worn or draped over a creature  
+**Bulk** L  
+-
+Woven from threads of starlight and serenity, this impossibly soft blanket radiates a gentle, calming warmth.  
+When wrapped around the **Lord Baby**, its furious cries subside to soft whimpers, and the dreadful aura that surrounds it lessens to something almost bearable.  
+Though the child’s divine fury still smolders beneath the surface, the blanket soothes its rage enough for mortals to approach without trembling — making the terrible merely tolerable.
+
+When used on a non-divine creature, the blanket provides brief comfort and peace.  
+After resting under it for **10 minutes**, a creature recovers from the **Frightened** or **Fatigued** condition (player’s choice), and gains a fleeting sense of parental pride.
+)
+
+
+
+
+
+=
+
+
+
+
+head(
+## The Doctor’s Exam Room ((+ The Doctor’s Exam Room))
+### “The Sniffle Plague”
+)
+
+/
+
+![doctors_exam_room](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/doctors-exam-room.png?raw=true)
+
+/
+
+This room looks wrong — a sterile, clinical space inexplicably grafted into the decaying manor.  
+The walls are tiled in faded white, fluorescent lights buzz faintly overhead, and the air reeks of rubbing alcohol, sour milk, and despair.
+
+Once pristine, the surfaces are now splattered with pools of mucus and other suspicious substances, giving the floor a slick, nauseating sheen.  
+Every few steps, a shoe peels up with a wet *schlorp*.  
+A cracked exam table sits in the center, its paper roll long since soaked through and curling with mildew.
+
+Scattered across the room are medical instruments and other tools — syringes, scalpels, stethoscopes — but also things that clearly don’t belong in a doctor’s office: rusty wrenches, pruning shears, a pacifier clamped in surgical forceps.  
+Some still hum faintly with leftover enchantment, while others twitch or clatter when no one’s looking.
+
+Charts and posters hang askew on the walls — anatomical drawings of infants, each one marked with runny noses and grotesquely exaggerated sinuses.  
+In the back, a privacy curtain hangs half off its rail, fluttering in an unseen breeze.  
+From behind it comes a soft, congested *coo*… followed by the wet sound of something sneezing.
+
+
+
+rules (
+## The Encounter — “The Sniffle Plague”
+As the curtain flutters, **three Plague Zombie Babies** crawl out from beneath it.  
+Their skin is blotchy and feverish gray, each one wearing a tiny hospital bracelet marked **“PATIENT ZERO.”**  
+Their noses run endlessly, and their eyes gleam with sickly green light.  
+When they burp or giggle, flecks of glowing bile splatter across the floor, sizzling like acid.
+
+The moment they notice the party, they emit a chorus of **sneezes** that shake the room — filling the air with a contagious mist.
+
+*Enemies:* Plague Baby ×3 
+
+*Non-Combat Solution:* A **Medicine** or relevant **Recall Knowledge** check (DC 18) identifies their affliction.  
+If treated with a **Medicine check (DC 19)** or other creative care (such as feeding them a potion), the babies are soothed and become non-hostile.
+)
+
+
+|
+
+note (
+## GM Notes
+The scene can be handled as either combat or compassion.  
+Players who opt for medical creativity should be rewarded — humor and empathy can triumph over brute force.  
+If the players cure the babies, describe their glowing green eyes dimming to a healthy pink and their tiny coughs turning into sleepy yawns before they crawl back behind the curtain to rest.
+)
+
+![Plague Baby](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/plague-baby-1.png?raw=true)
+
+
+**Perception DC 18** to notice several trinkets glinting beneath the exam table, half-buried under crumpled medical charts.
+
+| Loot | Description |
+| :--- | :--- |
+| **Bracelet of Dashing** | This jangling, silvery bracelet makes you lighter on your feet, granting a **+1 item bonus to Acrobatics checks**. |
+| **Antidote (Lesser) ×3** | Grants a **+2 item bonus to Fortitude saves** against poisons for **6 hours** after drinking. |
+| **Diaper of Doom Containment** | Wondrous Item — A sacred relic of olfactory salvation. See full item description below. |
+
+/
+-
+/
+
+item (
+# Diaper of Doom Containment
+![Diaper of Doom Containment](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/items/dipaer-of-doom-containment.png?raw=true)
+### Wondrous Item
+
+; uncommon,magical,wondrous  
+**Usage** Worn by the Lord Baby  
+**Bulk** L  
+-
+Emblazoned with sacred runes and a radiant sigil of containment, this holy diaper was crafted to seal away horrors best left unspoken.  
+When fastened upon the **Lord Baby**, it neutralizes the noxious power of its divine messes — banishing the foul stench that seeps through reality and afflicts all nearby with nausea.  
+The air grows clean, the sickness fades, and for a fleeting moment, the world feels safe again.
+
+Few artifacts are as merciful… or as necessary.
+)
+
+
+
+
+=
+
+
+
+
+
+head(
+## The Hallway of Holy Relics ((+ The Hallway of Holy Relics))
+)
+
+/
+
+
+The hallway stretches ahead, dimly lit and faintly humming with an odd rhythm — *shhh, thump, shhh, thump* — like the echo of someone rocking a baby to sleep long after the baby (and their sanity) have gone.  
+
+Three paintings hang proudly along the wall — untouched by dust or decay, each glowing faintly with a comforting, almost divine warmth.  
+The air here feels heavy but reverent, as though the relics themselves remember what they were made to protect.
+
+note (
+## GM Notes
+This hallway reinforces the divine thread woven through the manor — each relic representing one of the trials of fatherhood: patience, nourishment, comfort, and endurance.  
+If the players already possess any depicted relics, that painting glows warmly as they pass, and the soft hum of the hallway shifts to a lullaby in perfect harmony.
+)
+
+
+|
+
+rules (
+## Investigation
+Players may examine the paintings freely.  
+
+**DC 18** — Identify the wondrous item depicted.  
+
+**DC 23** — Learn about its location elsewhere in the manor.  
+
+Checks can use **Religion**, **Arcana**, or any suitable **Recall Knowledge** skill depending on player flavor and roleplay.  
+Encourage creative interpretation of the paintings — and reward connections to previously found relics with advantage or narrative insight.
+)
+
+
+/
+
+### Painting 1 — *“The Blessed Quiet”*  
+A peaceful baby sleeps soundly, a faint, silvery glow emanating from the soft shape in its mouth.  
+The serenity in its face is absolute — a calm so pure it feels impossible.  
+*(Depicts the **Pacifier of Blessed Silence** — located in the Library.)*
+
+---
+
+### Painting 2 — *“The Golden Giggle”*  
+A chubby, cherubic infant sits in a shower of golden crumbs, giggling as they spill endlessly from a small canister nearby.  
+The crumbs never seem to touch the ground, suspended in a perpetual loop of joy.  
+*(Depicts the **Snack of Everlasting Crumbs** — located in the Kitchen.)*
+
+---
+
+### Painting 3 — *“The Diapered Champion”*  
+A triumphant baby stands tall, its diaper gleaming with golden light as it strikes a heroic pose atop a pile of vanquished plush toys.  
+The expression is regal, proud — a conqueror in cotton armor.  
+*(Depicts the **Diaper of Doom Containment** — located in the Doctor’s Exam Room.)*
+
+
+
+
+=
+
+
+
+
+
+head(
+## The Kitchen ((+ The Kitchen))
+### “The Banquet That Never Ends”
+)
+
+/
+
+![kitchen_scene](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/kitchen.png?raw=true)
+
+/
+
+Unlike the rest of the manor, the Kitchen is almost unsettlingly clean.  
+The air is warm and thick with the comforting scents of roasted meats, baked bread, and sweet pastries.  
+At the center of the island counter, a perfectly roasted pig rests on a silver platter, surrounded by an absurd variety of dishes — dozens of meals, cuisines, and flavors, all carefully prepared, all untouched.  
+But beneath it all lies the faint tang of exhaustion.
+
+The space hums with quiet magic.  
+Copper pots gleam on their hooks.  
+The counters are spotless, yet crowded with dish after dish — stews, roasts, puddings, and purées — all steaming and fresh as though they were finished moments ago.  
+Every utensil moves of its own accord: knives slice with mechanical rhythm, spoons stir endlessly, and oven doors swing open and shut without a hand to guide them.  
+Despite the constant flurry of motion, not a single crumb touches the floor.
+
+But the room feels… *tired.*  
+The magic that animates it thrums weakly, like a heartbeat that’s been racing too long.  
+There’s a sense of obligation in the way the pots bubble and the knives chop — a relentless routine born of desperation.  
+You can feel that this kitchen has been trying, endlessly, to satisfy an unseen infant’s hunger — a baby who never seems full, never knows what it wants, and never stops crying for more.  
+So the kitchen keeps cooking.  
+Everything.  
+Always.
+
+|
+
+rules (
+## Searching the Banquet
+The players may search for notable or magical foods.  
+Each **Perception check** takes about **10 minutes**, requiring focus amid the chaos of restless utensils and ever-replenishing dishes.
+
+**Critical Failure:** A knife or spoon lashes out in irritation, dealing **1d4 slashing or bludgeoning damage** to the offending player.
+)
+
+note (
+## GM Notes
+Describe the kitchen as simultaneously miraculous and horrifying — a place of divine service turned mindless.  
+The utensils occasionally “sigh” or clatter in protest, showing exhaustion even in enchantment.  
+If the players linger too long, describe dishes vanishing and reappearing in new configurations, as though the kitchen itself is testing new recipes endlessly in search of satisfaction.
+)
+
+
+**Perception Check Results**
+
+| DC | Result | Item |
+| :---: | :--- | :--- |
+| **15** | You find a cluster of tiny glass vials filled with a shimmering liquid — each no larger than a baby’s bottle nipple. | **Mysterious Elixirs ×4** — Each vial restores a random sense of motivation. Drinking one grants a **+1 item bonus to your next skill check** before fading. |
+| **17** | Hidden among an array of desserts is a gilded canister radiating warmth and sweetness. | **Snack of Everlasting Crumbs** *(see item below)* |
+| **19** | You uncover a basket of potions stoppered with corks shaped like baby pacifiers. | **Healing Potion (Lesser) ×3** |
+| **21** | A row of neatly labeled bottles sits by the sink, faintly steaming. | **Antidote (Lesser) ×3** |
+| **23** | A bubbling flask emits bursts of bright orange vapor. The smell of scorched sugar lingers. | **Energy Mutagen (Moderate, Fire) ×3** — When consumed, you radiate fiery energy that scorches with every attack. |
+
+/
+
+item (
+# Snack of Everlasting Crumbs
+![Snack of Everlasting Crumbs](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/items/snack-of-everlasting-crumbs.png?raw=true)
+### Wondrous Item
+
+; uncommon,magical,wondrous  
+**Usage** Held in one hand  
+**Bulk** L  
+-
+This ornate golden canister spills forth an endless bounty of warm, airy puffs that glimmer faintly with nourishing light — and somehow leave a sprinkle of crumbs on every surface within a 10-foot radius.  
+Each bite melts away hunger and fills the spirit with gentle joy.  
+
+When offered to the **Lord Baby**, the divine child’s cravings are briefly sated, and the manor itself grows quieter — if only for a moment.  
+The eater feels an inexplicable sense of calm satisfaction… followed by the urge to clean up just one more crumb.
+)
+
+
+
+
+=
+
+
+
+
+head(
+## The Dining Room ((+ The Dining Room))
+### “The Feast of Flinging Fools”
+)
+
+/
+
+![dining_room](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/dining-room.png?raw=true)
+
+/
+
+The Dining Room once hosted lavish family dinners, but now it looks like a war zone.  
+The long wooden table dominating the center of the room is buried beneath spoiled casseroles, mashed vegetables, and splattered purées in every imaginable shade of beige.  
+Half-melted candles droop like stalactites, and the chandelier above drips *congealed gravy* instead of wax.
+
+The walls are streaked with the aftermath of countless food fights — a Pollock painting of peas, carrots, and questionable baby mush.  
+Rotten bread rolls litter the floor, forming soggy hazards underfoot.  
+Silver platters lie overturned, and porcelain dishes hang precariously off the edges of chairs like exhausted party guests.
+
+At the far end of the table sit **five small, wiry gremlins**, each perched in a chair as though attending a chaotic dinner party.  
+Their bellies are distended, their skin slick with grease, and each guards a personal domain of filth — a mountain of mashed carrots, a sea of peas, a hill of custard, and so on.  
+They hiss and chitter at the intruders, clutching spoons, ladles, and even serving forks like weapons.
+
+Every few seconds, one scoops up a handful of goo and **flings it across the room** with gleeful precision.  
+The air smells of baby food, stale mashed potatoes, and violence.
+
+### Food Gremlin
+![Food Gremlin](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/food-goblin.png?raw=true)
+
+|
+
+rules (
+## The Food Fight
+When the players enter, the gremlins immediately attack, shrieking and pelting anything that moves.  
+
+Each gremlin has a **favorite flavor** — carrots, peas, banana, apple, and sweet potato (or whatever flavors match your real-life jars).  
+
+**Feeding a gremlin its favorite food** pacifies it completely, turning it into a sleepy, burping lump. 
+
+**Feeding it the wrong food** triggers a **Projectile Vomit** reaction, dealing **1d4 acid damage** to the feeder and nearby squares.
+
+If the players pacify all five gremlins, the room falls silent except for faint snores and the drip of gravy from the chandelier.
+)
+
+note (
+## Real-World Integration — The Baby Food Challenge
+During this encounter, the players participate in a **real-life taste test** at the table.  
+Each player samples a spoon of baby food and guesses the flavor.
+
+**Correct guess:** Their character identifies and feeds the matching gremlin, instantly calming it.  
+
+**Incorrect guess:** The corresponding gremlin becomes enraged and gains the **Projectile Vomit** special attack for the next round.
+
+Encourage roleplay between bites — groans of disgust, flavor debates, and in-character taunting enhance the scene.
+)
+
+info (
+## GM Notes
+Use the gremlins as a mix of comedy and chaos.  
+Have them taunt players by smearing food across their faces, drumming on plates, or yelling “*More!*” in unison.  
+If the players fail too many guesses, have the chandelier shake loose, raining down clumps of gravy-soaked wax and forcing a **Reflex save (DC 17)** to avoid getting coated.
+)
+
+/
+
+**Perception DC 18** to notice two glittering objects half-buried beneath a pile of cold mashed potatoes at the far end of the table.
+
+| Loot | Description |
+| :--- | :--- |
+| **Returning Rune** | When you make a thrown Strike with this weapon, it automatically **flies back to your hand** after the attack resolves. If both hands are full, it drops harmlessly at your feet. |
+| **Feather Step Stone** | A polished amber stone with a tiny feather trapped within. When activated, you **ignore difficult terrain and greater difficult terrain** until the end of your turn. |
+
+
+
+
+
+
+=
+
+
+
+
+
+head(
+## The Office ((+ The Office))
+### “The Last Refuge”
+)
+
+/
+
+![office_scene](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/office.png?raw=true)
+
+/
+
+Once, this was a sanctuary — a quiet retreat from the noise and demands of the world.  
+The Office smells faintly of old coffee, warm electronics, and nostalgia.  
+A heavy wooden desk dominates the room, its surface worn smooth from countless late nights of gaming, tinkering, and dreaming.  
+A comfortable chair still sits behind it, turned slightly toward a computer monitor that hums softly in the dim light.
+
+The monitor flickers — once a portal to epic adventures, fierce battles, and friendships forged through headset chatter.  
+Now, it plays an endless loop of **Cocomelon**, **Ms. Rachel**, and **Bluey**, cycling without mercy.  
+No buttons respond. No input changes the screen.  
+The once-mighty machine has been conquered — repurposed into a shrine of catchy jingles and brightly colored torment.
+
+Along the far wall, bookcases sag under the weight of defeat.  
+Their shelves once held the finest collection of sci-fi, thrillers, and horror novels, but now the books have been pulled down and stacked into lopsided towers — makeshift building blocks for a tiny tyrant.  
+Some are open, their pages smeared with crayon, applesauce, and sticky fingerprints.
+
+
+|
+
+
+Every available corner is crowded with toys — neon plastic creeping across the floor like an unstoppable tide.  
+Rattles, blocks, and stuffed animals fill the space once reserved for thought and solitude.  
+The faint sound of cheerful music leaks from the monitor — endless, inescapable, and far too cheerful to be sane.
+
+A once-endearing refuge, now hollow.  
+Like a fallen fortress.
+
+
+rules (
+## Investigation — Searching the Desk
+A **Perception check (DC 20)** reveals what remains of the room’s lost order.
+
+**Success:** You find a **crumpled piece of paper** tucked under an empty mug — a handwritten note that still smells faintly of coffee and desperation. *(See “Shopping List” below.)*  
+
+**Failure:** You find nothing but empty energy drink cans, an unresponsive keyboard, and a laptop looping the phrase *“Do you want to build a…”* before the rest is drowned out by an enchanted hum.
+)
+
+
+/
+
+item (
+# Shopping List
+### Mundane Item
+; unique,document  
+**Usage** Held or read  
+**Bulk** —  
+-
+A crumpled, handwritten list labeled **“Favorite Foods for the Little Ones.”**  
+The handwriting is shaky but affectionate, the ink smudged by what might be a coffee ring — or a tear.
+
+The list reads:
+
+- Butternut Squash  
+- Prunes  
+- Green Beans  
+- Mango  
+- Sweet Potato  
+
+The paper feels warm to the touch, as though it remembers the hand that wrote it.
+)
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+=
+
+head(
+## The Library ((+ The Library))
+### “Stories for Short Attention Spans”
+)
+
+/
+
+![library_scene](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/library.png?raw=true)
+
+/
+
+The Library looks like the aftermath of a literary storm.  
+Books are everywhere — stacked, toppled, flung, and abandoned mid-chapter.  
+Shelves lean under the weight of half-read tomes, while the floor is buried beneath a sea of open pages and broken spines.
+
+It’s as if someone — or something — has been trapped here in an endless cycle of distraction: pulling a book from the shelf, reading two pages, losing interest, and reaching for another.  
+Again and again.  
+Forever.
+
+Many of the discarded volumes bear the evidence of this chaos — smears of food, sticky fingerprints, and the faint scent of applesauce.  
+Some lie open face-down, as though mid-story tantrums froze them in time.
+
+At the far end of the room, in front of the stained-glass bay windows, stands a single book upon a high pedestal — well beyond the reach of curious little hands.  
+Its ornate script glows with a faint purple shimmer that pulses gently, like a heartbeat.
+
+
+|
+
+rules (
+## Investigation
+A **Perception check (DC 15)** reveals a **crumpled book** hidden beneath a pile of half-read picture books.  
+The cover reads *“The Useless Guide to Fatherhood.”* (See item below.)
+
+Approaching the glowing pedestal begins the **Riddle Encounter** with the **Genie of Half-Read Tales**.
+)
+
+note (
+## Encounter — The Genie of Half-Read Tales
+As the players approach the pedestal, the open book flares with violet light.  
+The ink lifts from its pages and spirals into the air, forming a whirling cyclone of letters and punctuation.  
+From within the glowing storm, a booming voice bellows:
+
+*"At last! Someone who knows the importance of finishing a story!"*
+
+The swirling script coalesces into a towering, indigo-skinned genie — his lower half a spiral of floating text, his grin mischievous and knowing.  
+*"I am the Genie of the Half-Read Tales — guardian of literary commitment! Prove yourselves by answering my riddles, or forever remain... unfinished."*
+
+If the players correctly answer most of his riddles, he rewards them with the **Pacifier of Blessed Silence**, muttering,  
+*"Take this… It’s the only way I could get a word in while telling my tales."*
+)
+
+
+/
+
+# The Genie
+![Genie](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/library-genie.png?raw=true)
+
+## The Genie’s Riddles
+
+| Riddle | Answer |
+| :--- | :--- |
+| I wear a hat and boots of brown,   I’m Sheriff here in playtime town.  With pull-string voice both kind and steady,  “Reach for the sky!” — I’m always ready. | **Woody (Toy Story)** |
+| I bounce and spring and laugh with glee,  There’s no one else quite like me!  With stripes of orange and spirit bigger,  Who am I? That’s right—it’s... | **Tigger (Winnie the Pooh)** |
+| Born a god, but raised as man,  Strength unmatched across the land.  From mount to mortal, his tale unfurls,  Who’s the hero that saved the world? | **Hercules** |
+| A boy who dreams beyond his years,  A tiger friend who calms his fears.  Through snow and stars their fancies run,  In cardboard ships they chase the sun. | **Calvin and Hobbes** |
+| I scamper fast through market stalls,  I leap from roofs and city walls.  A loyal friend both brave and sly,  I snatch the jewels that catch my eye. | **Abu (Aladdin)** |
+| I’m made of snow but love the sun,  I dream of beaches, warmth, and fun.  My nose is bright, my jokes are bad,  Who’s this happy frosty lad? | **Olaf (Frozen)** |
+| In a world of songs where learning’s fun,  A teacher smiles for everyone.  One orange friend joins every tune,  He loves his crayons, bright and new!  Who’s this puppet loved by all? | **Herbie (Ms. Rachel)** |
+
+/
+
+-
+
+/
+
+
+item (
+# Useless Guide to Fatherhood
+### Mundane Book
+
+; unique,document  
+**Usage** Held or read  
+**Bulk** —  
+-
+A thick, dog-eared manual with the words *“A Guide to Fatherhood”* embossed in faded gold.  
+Nearly every page is blank — the few filled sections consist entirely of scribbled notes like *“wing it,”* *“try again tomorrow,”* and *“maybe the baby will sleep next time.”*  
+Smudges of applesauce and formula stain the margins, and the final page simply reads:  
+*"If you’re reading this, you’re already doing fine."*
+)
+
+item (
+# Pacifier of Blessed Silence
+![Pacifier of Blessed Silence](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/items/pacifier-of-blessed-silence.png?raw=true)
+### Wondrous Item
+
+; uncommon,magical,wondrous  
+**Usage** Held in one hand or placed in mouth  
+**Bulk** L  
+-
+Forged of silver and serenity, this pacifier hums with tranquil magic.  
+When placed upon restless lips, it soothes cries, muffles wails, and grants a moment’s peace to all within earshot.  
+The silence it brings is not empty but gentle — like a lullaby remembered from a dream.
+
+When offered to the **Lord Baby**, its divine tantrums subside to whispers, granting those nearby a brief reprieve from the sonic storm.  
+For a single, blessed moment, the manor itself seems to exhale.
+)
+
+
+
+
+
+
+=
+
+
+
+=
+
+head(
+## The Boss Room ((+ The Lord of the Wails))
+### “The Lord of the Wails”
+)
+
+/
+
+![lord_of_the_wails](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/scene_art/boss-room.png?raw=true)
+
+/
+
+You step into the heart of the manor, and the air itself trembles.  
+The floor is cracked and blackened, lined with fiery fissures that pulse like a heartbeat.  
+The once-grand chamber is now a battlefield of soot and ruin — the aftermath of a tantrum so powerful it tore through reality itself.
+
+At the center of the room rises a **throne of shattered cribs and twisted toys**, precariously balanced atop a mound of splintered wood.  
+Upon it sits the **Lord Baby**, pudgy fists clenched, face scrunched in pure, unfiltered rage.  
+Each wail it unleashes sends a ripple of brimstone heat across the chamber.
+
+All around the throne, tiny **goblin minions** scurry in frantic circles, desperately trying to appease their furious master.  
+One offers a bottle, another shakes a rattle, a third fans the baby with a burp cloth — but nothing works.  
+The cries only grow louder, angrier.  
+Whatever it wants, only you can provide it.
+
+Five glowing circles are scrawled across the floor in food stains, drool, and what you hope is finger paint.  
+They pulse faintly in rhythm with the baby’s cries, flickering like the embers of a forgotten ritual.
+
+It’s clear now — these aren’t mere markings.  
+They’re **offerings**, etched from desperation.  
+The house itself whispers its demand: **feed, satisfy, cleanse, comfort, and quiet.**
+
+The walls bear the scars of countless tantrums — scorched cribs, melted bottles, toys fused to the floor.  
+Each shriek shakes the rafters, a sound that feels less like crying and more like summoning.  
+And yet, beneath all that fury, there’s something small and innocent — something that just wants to be held.
+
+
+|
+
+rules (
+## The Final Encounter — The Lord Baby
+At the center of the scorched nursery throne room sits **The Lord Baby**, radiating waves of heat, rage, and exhaustion.  
+Its eyes glow with infernal fire, and every cry cracks the stone beneath your feet.
+
+*Enemies:* **4 × Goblin Servants**
+
+The encounter is not about destruction but **appeasement** — calming the tantrum by addressing each of the Lord Baby’s unmet needs.  
+Each of the **five glowing sigils** represents one primal need.  
+Placing the corresponding **relic** on a sigil satisfies that aspect and weakens the tantrum.
+
+
+
+---
+
+Dealing **any damage** to the Lord Baby only strengthens the tantrum.  
+When struck, roll to determine which need grows louder, increasing its condition by **1 step** (Drained 2, Enfeebled 2, etc.).
+
+The **heat aura** around the throne deals **1d4 persistent fire damage each round**.  
+This can be mitigated by creativity, magic, or by using the **Rubber Ducky of Bubble Guard** to unleash its stored bathwater — cooling the room and lowering the ambient damage to **1 point per round**.
+)
+
+note (
+## GM Notes
+Play this encounter as equal parts epic and absurd.  
+Encourage creativity and fatherly instinct over combat prowess.  
+The true victory is not slaying the Lord Baby but **understanding** it — channeling patience, humor, and teamwork to survive the divine tantrum.
+
+As each relic is placed, describe the room’s transformation:  
+The fissures dim, the heat cools, the cries weaken, and the toys settle into stillness.  
+)
+
+/
+
+
+### Relic Rituals
+| Need | Relic | Effect Before Offering | Resolution |
+| :--- | :--- | :--- | :--- |
+| **Hunger** | Bottle of Endless Milk | All players are **Drained 1** | Offering the bottle fills the air with a warm scent of milk. The hunger subsides. |
+| **Cravings** | Snack of Everlasting Crumbs | All players are **Enfeebled 1** | Presenting the snack releases golden crumbs that fade into light. The craving quiets. |
+| **Filth** | Diaper of Doom Containment | All players are **Sickened 1** | Once placed, the air clears — a divine cleansing fills the room. |
+| **Anger / Restlessness** | Blanket of Soothing Snuggles | All players are **Frightened 1** | Draping the blanket over the throne dulls the heat and steadies the cries. |
+| **Upset / Crying** | Pacifier of Blessed Silence | All players are **Stupefied 1** | Placing the pacifier in the baby’s mouth hushes the room. The wails fade to whimpers. |
+
+
+
+
+
+
+=
+
+
+
+
+=
+
+head(
+# When Rage Gives Way to Rest ((+ When Rage Gives Way to Rest))
+)
+
+
+/
+
+As the final offering is placed before the Lord Baby, the air grows still.
+
+
+
+The cries that once shook the manor fade to soft coos. The fires of tantrum rage dim to a gentle, golden glow. Before your eyes, the monstrous form shrinks and softens — the horns retreat, the claws curl into tiny fingers, and what remains is a drowsy, angelic infant.
+
+
+
+The once-mighty overlord yawns, stretches, and drifts into peaceful slumber. You step forward, instinctively — reverently — and cradle the child in your arms. For the first time since you awoke in this nightmare, the house is silent. Not the silence of dread, but of calm.
+
+
+
+You look down at the baby’s face — serene, angelic, drooling slightly — and somehow, every trial, every mess, every horror feels… worth it. The mountains you’ve climbed now seem like ant hills. The sleepless nights, the spills, the screams — all just echoes of love in disguise.
+
+
+
+A small smile creeps across your face. You wouldn’t change a thing.You feel a gentle hand rest upon your shoulder. Turning back, you see your companions smiling — warm, proud, and slowly fading into the soft light around you.
+
+
+
+It’s then you understand: they were never just fellow adventurers, but reflections of what you’ll need for the road ahead — strength to endure, resilience to rise again, knowledge to guide you, patience to listen, and love to see it through.
+
+
+
+Though their forms dissolve like mist at dawn, their presence lingers — not gone, only waiting. And when the next challenge comes, when the cries return and the nights grow long… they will be there, as they always were.
+
+
+
+The darkness doesn’t brighten, but the shadows feel softer now. The mess remains, but it no longer feels like ruin — it echoes with the memories of playtime. The chaos endures, but it’s yours. A reminder of the life, the noise, the love that fills your world.
+
+
+
+Your peaceful, sleeping, beautiful little world…
+
+
+
+At least until they get hungry again.
+
+
+
+
+=
+
+
+head(
+##Appendix ((+ Appendix))
+)
+
+
+/
+
+item (
+# Plague Baby
+Mechanically the same as an elite [Plague Zombie](https://2e.aonprd.com/Monsters.aspx?ID=3250&Redirected=1)
+![Plague Baby](https://github.com/gsimon2/nightmares-of-newborn-maner/blob/main/images/monsters/plague-baby-1.png?raw=true)
+### Creature 2
+
+; neutral evil, undead, zombie, disease
+**Perception** +7; darkvision  
+**Languages** none  
+**Skills** Athletics +8  
+**Str** +3, **Dex** +0, **Con** +3, **Int** –5, **Wis** +0, **Cha** –2  
+**AC** 15; **Fort** +9, **Ref** +4, **Will** +5  
+**HP** 35 (negative healing); **Immunities** death effects, disease, paralyzed, poison, unconscious  
+-
+The **Plague Baby** is an unholy fusion of infantile resilience and viral vengeance.  
+Its endless sneezing and giggling spread sickness as surely as its bite, and its diaper is a biohazard best left undisturbed.
+
+---
+
+**Speed** 25 feet  
+**Melee** [one-action] **bite** +9 (agile, finesse), **Damage** 1d6+3 piercing plus **plague pustules**  
+
+**Melee** [one-action] **slam** +9 (agile), **Damage** 1d8+3 bludgeoning  
+
+---
+
+**Plague Pustules (disease)**  
+(incubation 1 day; **saving throw** Fortitude DC 17)  
+The afflicted creature becomes **sickened 1** and **slowed 1**.  
+Onset symptoms include runny nose, watery eyes, and a sudden urge to crawl under a blanket and cry.  
+
+---
+
+**Death Burst (disease, aura)**  
+When the Plague Baby is reduced to 0 HP, it explodes in a wet, contagious sneeze.  
+All creatures within 10 feet must succeed at a **Fortitude save (DC 17)** or become **Sickened 1** (Sickened 2 on a critical failure).  
+The area becomes lightly coated in glistening infant mucus.
+
+---
+
+**Cure:** Two consecutive successful Fortitude saves.  
+
+---
+
+*Sometimes the most dangerous patient is the one still learning how to walk.*
+)
+
+
+
